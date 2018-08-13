@@ -4,7 +4,7 @@ It consists, on its easy version, in rebuild the google homepage.
 
 That project should include those skills:
 
-1. Two ways to move a dic arouand on the page
+1. Two ways to move a pic around on the page
 2. Stick a div onto the bottom or top of the page
 3. Identify the background color of an existing webpage
 4. Grab the URL for an image from an existing webpage
